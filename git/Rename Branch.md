@@ -1,0 +1,4 @@
+- `git branch -m <old name> <new name>` - rename
+- `git branch -c <old name> <new name>` - copy
+- `git branch -d <old name> <new name>` -  delete
+	- we cannot delete current branch

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"b8bd7966c4b4c1b9","type":"text","text":"amend existing itinerary","x":-220,"y":40,"width":250,"height":60},
+		{"id":"f0ad2e088b4eacd9","type":"text","text":"Dynamic Package","x":-1060,"y":-540,"width":250,"height":60},
+		{"id":"31da243c34f8118e","type":"text","text":"Add Products","x":-900,"y":-197,"width":250,"height":60},
+		{"id":"a0e6f0d69730c699","type":"text","text":"Amend Itinerary","x":-540,"y":-197,"width":250,"height":60},
+		{"id":"e3d8e21ad92f0bba","type":"text","text":"Update Travelers","x":-1240,"y":-197,"width":250,"height":53},
+		{"id":"b1752f99e35250a7","type":"text","text":"Add Itinerary","x":-790,"y":40,"width":250,"height":60},
+		{"id":"02f163d76791bb7a","type":"text","text":"hotel/#### 1286180","x":-220,"y":160,"width":250,"height":60},
+		{"id":"d0246b48527c2f14","type":"text","text":"flight/#### 1286181","x":-220,"y":260,"width":250,"height":60},
+		{"id":"a92752f902e7fad3","type":"text","text":"Car/#### 1286182","x":-220,"y":360,"width":250,"height":60},
+		{"id":"a707b7a78c591b34","type":"text","text":"generic/#### 1286183","x":-220,"y":480,"width":250,"height":60},
+		{"id":"4200e0a79d104d60","type":"text","text":"transfer/#### 1286185","x":-220,"y":600,"width":250,"height":60},
+		{"id":"34163eda7549fc31","type":"text","text":"tour","x":-220,"y":720,"width":250,"height":60},
+		{"id":"b55ba684084ec9bb","type":"text","text":"cruise","x":-220,"y":840,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"eb5e82c195e43c13","fromNode":"f0ad2e088b4eacd9","fromSide":"bottom","toNode":"31da243c34f8118e","toSide":"top"},
+		{"id":"e98364117179b74a","fromNode":"f0ad2e088b4eacd9","fromSide":"bottom","toNode":"e3d8e21ad92f0bba","toSide":"top"},
+		{"id":"6a9d59d0c4b8b7c2","fromNode":"f0ad2e088b4eacd9","fromSide":"bottom","toNode":"a0e6f0d69730c699","toSide":"top"},
+		{"id":"53c140b0425485b2","fromNode":"a0e6f0d69730c699","fromSide":"bottom","toNode":"b8bd7966c4b4c1b9","toSide":"top"},
+		{"id":"f182ca88805ebd24","fromNode":"a0e6f0d69730c699","fromSide":"bottom","toNode":"b1752f99e35250a7","toSide":"top"}
+	]
+}

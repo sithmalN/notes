@@ -1,0 +1,2 @@
+- `git branch` - show current branches
+- `git branch new_feature` - create new branch

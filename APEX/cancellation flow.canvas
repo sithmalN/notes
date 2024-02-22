@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"11e2d7a699a55812","type":"text","text":"cancellation","x":-180,"y":-220,"width":250,"height":60},
+		{"id":"c9a9d07e3f669b21","type":"text","text":"entire booking cancellation","x":-430,"y":-87,"width":250,"height":60},
+		{"id":"d51110d87d01b771","type":"text","text":"dp cancellation","x":70,"y":-87,"width":250,"height":60},
+		{"id":"8815c87f6ae93a39","type":"text","text":"product cancellation","x":-50,"y":40,"width":250,"height":60},
+		{"id":"4ca2d90e8259a004","type":"text","text":"entire booking cancellation","x":260,"y":60,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0deeb5b509eac437","fromNode":"11e2d7a699a55812","fromSide":"bottom","toNode":"d51110d87d01b771","toSide":"top"},
+		{"id":"ddf0dda0dde80b98","fromNode":"11e2d7a699a55812","fromSide":"bottom","toNode":"c9a9d07e3f669b21","toSide":"top"},
+		{"id":"cd7bcf3dc29f053a","fromNode":"d51110d87d01b771","fromSide":"right","toNode":"4ca2d90e8259a004","toSide":"top"},
+		{"id":"2da54dab0c440f34","fromNode":"d51110d87d01b771","fromSide":"left","toNode":"8815c87f6ae93a39","toSide":"top"}
+	]
+}

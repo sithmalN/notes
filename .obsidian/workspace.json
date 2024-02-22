@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "061d20e3cc001d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2b406cad2be6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f690989396785dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "APEX/Dynamic Package Amendment Flows.canvas",
+                "viewState": {
+                  "x": -755,
+                  "y": -180,
+                  "zoom": -0.8836876479455198
+                }
+              }
+            }
+          },
+          {
+            "id": "31ef3d91cb91c3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APEX/Dynamic Package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5631338b7828ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APEX/Dynamic Package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ad76b87d1fb53fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f7568b4daa4caba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab9042992b4cb99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/Remote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b8b03783bba070d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd439bce595372b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4195250d252fe08b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7ce2c23fe50e94d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9d029a8c69bab5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d34ed3f0fe4ccfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "92be58fef590f675",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "453d64148aa26a10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/Remote.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16b1e75999c0a431",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/Remote.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "924a1a5477b13d09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b81cdc6fcabd5bf4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/Remote.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab9042992b4cb99c",
+  "lastOpenFiles": [
+    "git/Git.md",
+    "git/Remote.md",
+    "git/Branching.md",
+    "README.md",
+    "git/Create Branch.md",
+    "git/Track Down problems.md",
+    "git/Share Select Changes.md",
+    "git/Rebase.md",
+    "git/Squash commits.md",
+    "git/Merging Vs. Rebasing.md",
+    "Pasted image 20240220203201.png",
+    "Pasted image 20240220203121.png",
+    "git/Switch Branches.md",
+    "APEX/priority.md",
+    "git/Interactive Staging.md",
+    "git/Tagging.md",
+    "git/Branch Management.md",
+    "git/Tips.md",
+    "Pasted image 20240216215649.png",
+    "Pasted image 20240216215625.png",
+    "Pasted image 20240216215248.png",
+    "Pasted image 20240216215104.png",
+    "Pasted image 20240216214808.png",
+    "Pasted image 20240216204634.png",
+    "git/Stash.md",
+    "git/Merge Branches.md",
+    "git/Reset.md",
+    "git/Soft Reset.md",
+    "git/Navigate the Commit  Tree.md",
+    "git/Rename Branch.md",
+    "git/Compare Branches.md",
+    "[Navigate the Commit  Tree.md",
+    "Pasted image 20240215190338.png",
+    "APEX/Dynamic Package Amendment Flows.canvas",
+    "git",
+    "APEX/Payment flow.md",
+    "Travelbox Rest API.md",
+    "APEX/cancellation flow.canvas",
+    "Untitled.canvas",
+    "sprint review",
+    "csa",
+    "APEX",
+    "media"
+  ]
+}

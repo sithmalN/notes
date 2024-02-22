@@ -1,0 +1,9 @@
+- `git stash save "<name>"`
+- `git stash help`
+- `git stash list`
+- `git stash show -p stash@{i}` - `i` is the index of stash item. newest item is always at the top.
+- `git stash pop` - retrieve stash (if one)
+- `git stash pop stash@{i}`
+- `git stash apply` - make the change but did not deleted
+- `git stash drop stash@{0}`
+- `git stash clear` - delete every thing

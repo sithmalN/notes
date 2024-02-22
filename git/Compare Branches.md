@@ -1,0 +1,4 @@
+- `git diff <older brach> <latest branch>`
+- `git diff --color-words <older brach>..<latest branch>` - useful when compare paragraph
+- we can compare with ancestors/ tree-ish
+- `git branch --merge` - see what branches are merge into the current branch

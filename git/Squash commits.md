@@ -1,0 +1,4 @@
+- Fold two or more commits into one
+- squash: combine changesets, concatenate messages
+- fixup: combine changesets, discard this message
+- uses first author in the commit series
